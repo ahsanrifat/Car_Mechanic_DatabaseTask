@@ -1,0 +1,51 @@
+body{
+
+	margin: 0px;
+	padding: 0px;
+}
+#nav-bar{
+	
+	background-color: #AC0101;
+	padding-top: 16px;
+	color: white;
+}
+#nav-button{
+
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+#nav-bar{
+	height: 70px;
+	width: 100%;
+}
+#foot{
+
+	background-color: #AC0101;
+	color: white;
+
+}
+#body-container{
+	height: 300px;
+
+
+}
+#place-an-appointment{
+	border: 5px dashed #AC0101;
+	margin-top: 250px;
+	margin-left: 470px;
+	margin-right: 470px;
+	padding: 10px;
+	background-color: #FFD0D0;
+}
+#form_data{
+	height: 500px;
+	margin-top: 30px;
+}
+#add-show{
+	border: 5px dashed #AC0101;
+	background-color: #FFD0D0;
+}
